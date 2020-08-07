@@ -6,3 +6,5 @@ Cereals
 Oranges
 Pulses
 Bananas
+Cucumber
+Raddishes
